@@ -1,0 +1,10 @@
+#Kotlin
+.gradle/
+build/
+*.iml
+.idea/
+
+#JavaScript
+node_modules/
+dist/
+npm-debug.log
